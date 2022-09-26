@@ -16,7 +16,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://yup03.github.io/testimonials-grid-section-main/))
+- Live Site URL: [See the result](https://yup03.github.io/testimonials-grid-section-main/)
 
 
 
